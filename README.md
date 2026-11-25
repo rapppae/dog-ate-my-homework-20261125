@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [The Dog Ate My Homework: Funniest Excuse](https://make.fun/bounty/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c).
 
-> I didn't eat it. I performed an emergency shredding of a document I suspected of being a treat. The maths answers were delicious, the essay was dry, and frankly, your handwriting invited it.
+> I didn't eat it. I performed an emergency shredding of a document I suspected of being a treat. The maths answers were delicious, the essay was dry, and frankly, your handwriting asked for it.
 
 ## Run
 

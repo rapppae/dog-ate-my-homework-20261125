@@ -1,6 +1,6 @@
 """Entry for make.fun bounty "The Dog Ate My Homework: Funniest Excuse".
 
-Entry text (190 characters, limit: under 200 characters).
+Entry text (192 characters, limit: under 200 characters).
 No trailing newline is written, per the bounty text format.
 """
 
